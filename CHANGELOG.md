@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.13.0
+
+### Minor Changes
+
+- [#325](https://github.com/cloudflare/wrangler-action/pull/325) [`cada7a6`](https://github.com/cloudflare/wrangler-action/commit/cada7a63124ded3471bef7e8001b76356b838e40) Thanks [@Maximo-Guk](https://github.com/Maximo-Guk)! - Add GitHub deployments and job summaries for parity with pages-action
+
 ## 3.12.1
 
 ### Patch Changes
